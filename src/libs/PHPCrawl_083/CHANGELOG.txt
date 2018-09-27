@@ -1,4 +1,5 @@
-PHPCrawl Version-History / Changelog 
+PHPCrawl Version-History / Changelog
+
 Version 0.83
 2015/01/27
 
